@@ -28,3 +28,6 @@ If you find this code and the paper useful in your research, please site:
 
 
 #### Note: The codes (.ipynb) can be run on Google Colab.
+- `synthetic_concave_{increase/decrease}.ipynb` contains the synthetic experiment results with small and large initial populations, respectively.
+- `real_kuairec.ipynb` contains the real-data experiment results.
+- Note that, to run the real-data experiment, make sure to download the [KuaiRec](https://github.com/chongminggao/KuaiRec) dataset in advance.
