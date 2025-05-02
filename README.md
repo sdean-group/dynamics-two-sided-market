@@ -4,7 +4,7 @@
 
 This repository contains the experiment code for the following paper "Policy Design for Two-sided Platforms with Participation Dynamics" by
 [Haruka Kiyohara](https://sites.google.com/view/harukakiyohara), [Fan Yao](https://www.yaofan29597.com/), and [Sarah Dean](https://sdean.website/), which has been accepted to *International Conference on Machine Learning (ICML)*, 2025. 
-[[preprint](https://arxiv.org/pdf/2502.01792)] [[slides]()]
+[[preprint](https://arxiv.org/pdf/2502.01792)] [[slides](https://speakerdeck.com/harukakiyohara_/dynamics-two-stage-rec)]
 
 <details>
 <summary><strong>Click here to show the abstract </strong></summary>
